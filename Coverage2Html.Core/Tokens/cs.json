@@ -1,0 +1,798 @@
+[
+  {
+    "Type": "BYTE_ORDER_MARK",
+    "Category": "Undefined"
+  },
+  {
+    "Type": "SINGLE_LINE_DOC_COMMENT",
+    "Category": "Comment"
+  },
+  {
+    "Type": "EMPTY_DELIMITED_DOC_COMMENT",
+    "Category": "Comment"
+  },
+  {
+    "Type": "DELIMITED_DOC_COMMENT",
+    "Category": "Comment"
+  },
+  {
+    "Type": "SINGLE_LINE_COMMENT",
+    "Category": "Comment"
+  },
+  {
+    "Type": "DELIMITED_COMMENT",
+    "Category": "Comment"
+  },
+  {
+    "Type": "WHITESPACES",
+    "Category": "Whitespace"
+  },
+  {
+    "Type": "NEWLINE",
+    "Category": "Newline"
+  },
+  {
+    "Type": "SHARP",
+    "Category": "Undefined"
+  },
+  {
+    "Type": "ABSTRACT",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "ADD",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "ALIAS",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "ARGLIST",
+    "Category": "Undefined"
+  },
+  {
+    "Type": "AS",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "ASCENDING",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "ASYNC",
+    "Category": "Undefined"
+  },
+  {
+    "Type": "AWAIT",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "BASE",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "BOOL",
+    "Category": "Type"
+  },
+  {
+    "Type": "BREAK",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "BY",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "BYTE",
+    "Category": "Type"
+  },
+  {
+    "Type": "CASE",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "CATCH",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "CHAR",
+    "Category": "Type"
+  },
+  {
+    "Type": "CHECKED",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "CLASS",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "CONST",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "CONTINUE",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "DECIMAL",
+    "Category": "Undefined"
+  },
+  {
+    "Type": "DEFAULT",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "DELEGATE",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "DESCENDING",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "DO",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "DOUBLE",
+    "Category": "Type"
+  },
+  {
+    "Type": "DYNAMIC",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "ELSE",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "ENUM",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "EQUALS",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "EVENT",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "EXPLICIT",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "EXTERN",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "FALSE",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "FINALLY",
+    "Category": "Undefined"
+  },
+  {
+    "Type": "FIXED",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "FLOAT",
+    "Category": "Type"
+  },
+  {
+    "Type": "FOR",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "FOREACH",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "FROM",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "GET",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "GOTO",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "GROUP",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "IF",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "IMPLICIT",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "IN",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "INT",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "INTERFACE",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "INTERNAL",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "INTO",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "IS",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "JOIN",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "LET",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "LOCK",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "LONG",
+    "Category": "Type"
+  },
+  {
+    "Type": "NAMEOF",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "NAMESPACE",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "NEW",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "NULL_",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "OBJECT",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "ON",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "OPERATOR",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "ORDERBY",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "OUT",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "OVERRIDE",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "PARAMS",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "PARTIAL",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "PRIVATE",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "PROTECTED",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "PUBLIC",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "READONLY",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "REF",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "REMOVE",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "RETURN",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "SBYTE",
+    "Category": "Type"
+  },
+  {
+    "Type": "SEALED",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "SELECT",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "SET",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "SHORT",
+    "Category": "Type"
+  },
+  {
+    "Type": "SIZEOF",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "STACKALLOC",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "STATIC",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "STRING",
+    "Category": "Type"
+  },
+  {
+    "Type": "STRUCT",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "SWITCH",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "THIS",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "THROW",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "TRUE",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "TRY",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "TYPEOF",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "UINT",
+    "Category": "Type"
+  },
+  {
+    "Type": "ULONG",
+    "Category": "Type"
+  },
+  {
+    "Type": "UNCHECKED",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "UNMANAGED",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "UNSAFE",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "USHORT",
+    "Category": "Type"
+  },
+  {
+    "Type": "USING",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "VAR",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "VIRTUAL",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "VOID",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "VOLATILE",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "WHEN",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "WHERE",
+    "Category": "Undefined"
+  },
+  {
+    "Type": "WHILE",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "YIELD",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "IDENTIFIER",
+    "Category": "Identifier"
+  },
+  {
+    "Type": "LITERAL_ACCESS",
+    "Category": "Undefined"
+  },
+  {
+    "Type": "INTEGER_LITERAL",
+    "Category": "Undefined"
+  },
+  {
+    "Type": "HEX_INTEGER_LITERAL",
+    "Category": "Undefined"
+  },
+  {
+    "Type": "BIN_INTEGER_LITERAL",
+    "Category": "Undefined"
+  },
+  {
+    "Type": "REAL_LITERAL",
+    "Category": "Undefined"
+  },
+  {
+    "Type": "CHARACTER_LITERAL",
+    "Category": "Undefined"
+  },
+  {
+    "Type": "REGULAR_STRING",
+    "Category": "Undefined"
+  },
+  {
+    "Type": "VERBATIUM_STRING",
+    "Category": "Undefined"
+  },
+  {
+    "Type": "INTERPOLATED_REGULAR_STRING_START",
+    "Category": "Undefined"
+  },
+  {
+    "Type": "INTERPOLATED_VERBATIUM_STRING_START",
+    "Category": "Undefined"
+  },
+  {
+    "Type": "OPEN_BRACE",
+    "Category": "Undefined"
+  },
+  {
+    "Type": "CLOSE_BRACE",
+    "Category": "Undefined"
+  },
+  {
+    "Type": "OPEN_BRACKET",
+    "Category": "Undefined"
+  },
+  {
+    "Type": "CLOSE_BRACKET",
+    "Category": "Undefined"
+  },
+  {
+    "Type": "OPEN_PARENS",
+    "Category": "Undefined"
+  },
+  {
+    "Type": "CLOSE_PARENS",
+    "Category": "Undefined"
+  },
+  {
+    "Type": "DOT",
+    "Category": "Undefined"
+  },
+  {
+    "Type": "COMMA",
+    "Category": "Undefined"
+  },
+  {
+    "Type": "COLON",
+    "Category": "Undefined"
+  },
+  {
+    "Type": "SEMICOLON",
+    "Category": "Undefined"
+  },
+  {
+    "Type": "PLUS",
+    "Category": "Undefined"
+  },
+  {
+    "Type": "MINUS",
+    "Category": "Undefined"
+  },
+  {
+    "Type": "STAR",
+    "Category": "Undefined"
+  },
+  {
+    "Type": "DIV",
+    "Category": "Undefined"
+  },
+  {
+    "Type": "PERCENT",
+    "Category": "Undefined"
+  },
+  {
+    "Type": "AMP",
+    "Category": "Undefined"
+  },
+  {
+    "Type": "BITWISE_OR",
+    "Category": "Undefined"
+  },
+  {
+    "Type": "CARET",
+    "Category": "Undefined"
+  },
+  {
+    "Type": "BANG",
+    "Category": "Undefined"
+  },
+  {
+    "Type": "TILDE",
+    "Category": "Undefined"
+  },
+  {
+    "Type": "ASSIGNMENT",
+    "Category": "Undefined"
+  },
+  {
+    "Type": "LT",
+    "Category": "Undefined"
+  },
+  {
+    "Type": "GT",
+    "Category": "Undefined"
+  },
+  {
+    "Type": "INTERR",
+    "Category": "Undefined"
+  },
+  {
+    "Type": "DOUBLE_COLON",
+    "Category": "Undefined"
+  },
+  {
+    "Type": "OP_COALESCING",
+    "Category": "Undefined"
+  },
+  {
+    "Type": "OP_INC",
+    "Category": "Undefined"
+  },
+  {
+    "Type": "OP_DEC",
+    "Category": "Undefined"
+  },
+  {
+    "Type": "OP_AND",
+    "Category": "Undefined"
+  },
+  {
+    "Type": "OP_OR",
+    "Category": "Undefined"
+  },
+  {
+    "Type": "OP_PTR",
+    "Category": "Undefined"
+  },
+  {
+    "Type": "OP_EQ",
+    "Category": "Undefined"
+  },
+  {
+    "Type": "OP_NE",
+    "Category": "Undefined"
+  },
+  {
+    "Type": "OP_LE",
+    "Category": "Undefined"
+  },
+  {
+    "Type": "OP_GE",
+    "Category": "Undefined"
+  },
+  {
+    "Type": "OP_ADD_ASSIGNMENT",
+    "Category": "Undefined"
+  },
+  {
+    "Type": "OP_SUB_ASSIGNMENT",
+    "Category": "Undefined"
+  },
+  {
+    "Type": "OP_MULT_ASSIGNMENT",
+    "Category": "Undefined"
+  },
+  {
+    "Type": "OP_DIV_ASSIGNMENT",
+    "Category": "Undefined"
+  },
+  {
+    "Type": "OP_MOD_ASSIGNMENT",
+    "Category": "Undefined"
+  },
+  {
+    "Type": "OP_AND_ASSIGNMENT",
+    "Category": "Undefined"
+  },
+  {
+    "Type": "OP_OR_ASSIGNMENT",
+    "Category": "Undefined"
+  },
+  {
+    "Type": "OP_XOR_ASSIGNMENT",
+    "Category": "Undefined"
+  },
+  {
+    "Type": "OP_LEFT_SHIFT",
+    "Category": "Undefined"
+  },
+  {
+    "Type": "OP_LEFT_SHIFT_ASSIGNMENT",
+    "Category": "Undefined"
+  },
+  {
+    "Type": "OP_COALESCING_ASSIGNMENT",
+    "Category": "Undefined"
+  },
+  {
+    "Type": "OP_RANGE",
+    "Category": "Undefined"
+  },
+  {
+    "Type": "DOUBLE_CURLY_INSIDE",
+    "Category": "Undefined"
+  },
+  {
+    "Type": "OPEN_BRACE_INSIDE",
+    "Category": "Undefined"
+  },
+  {
+    "Type": "REGULAR_CHAR_INSIDE",
+    "Category": "Undefined"
+  },
+  {
+    "Type": "VERBATIUM_DOUBLE_QUOTE_INSIDE",
+    "Category": "Undefined"
+  },
+  {
+    "Type": "DOUBLE_QUOTE_INSIDE",
+    "Category": "Undefined"
+  },
+  {
+    "Type": "REGULAR_STRING_INSIDE",
+    "Category": "Undefined"
+  },
+  {
+    "Type": "VERBATIUM_INSIDE_STRING",
+    "Category": "Undefined"
+  },
+  {
+    "Type": "CLOSE_BRACE_INSIDE",
+    "Category": "Undefined"
+  },
+  {
+    "Type": "FORMAT_STRING",
+    "Category": "Undefined"
+  },
+  {
+    "Type": "DIRECTIVE_WHITESPACES",
+    "Category": "Whitespace"
+  },
+  {
+    "Type": "DIGITS",
+    "Category": "Undefined"
+  },
+  {
+    "Type": "DEFINE",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "UNDEF",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "ELIF",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "ENDIF",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "LINE",
+    "Category": "Undefined"
+  },
+  {
+    "Type": "ERROR",
+    "Category": "Undefined"
+  },
+  {
+    "Type": "WARNING",
+    "Category": "Undefined"
+  },
+  {
+    "Type": "REGION",
+    "Category": "Undefined"
+  },
+  {
+    "Type": "ENDREGION",
+    "Category": "Undefined"
+  },
+  {
+    "Type": "PRAGMA",
+    "Category": "Undefined"
+  },
+  {
+    "Type": "NULLABLE",
+    "Category": "Undefined"
+  },
+  {
+    "Type": "DIRECTIVE_HIDDEN",
+    "Category": "Undefined"
+  },
+  {
+    "Type": "CONDITIONAL_SYMBOL",
+    "Category": "Undefined"
+  },
+  {
+    "Type": "DIRECTIVE_NEW_LINE",
+    "Category": "Newline"
+  },
+  {
+    "Type": "TEXT",
+    "Category": "Undefined"
+  },
+  {
+    "Type": "DOUBLE_CURLY_CLOSE_INSIDE",
+    "Category": "Undefined"
+  }
+]

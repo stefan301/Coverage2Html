@@ -1,0 +1,586 @@
+[
+  {
+    "Type": "IntegerLiteral",
+    "Category": "Literal"
+  },
+  {
+    "Type": "CharacterLiteral",
+    "Category": "Literal"
+  },
+  {
+    "Type": "FloatingLiteral",
+    "Category": "Literal"
+  },
+  {
+    "Type": "StringLiteral",
+    "Category": "String"
+  },
+  {
+    "Type": "BooleanLiteral",
+    "Category": "Literal"
+  },
+  {
+    "Type": "PointerLiteral",
+    "Category": "Literal"
+  },
+  {
+    "Type": "UserDefinedLiteral",
+    "Category": "Literal"
+  },
+  {
+    "Type": "MultiLineMacro",
+    "Category": "Directive"
+  },
+  {
+    "Type": "Directive",
+    "Category": "Directive"
+  },
+  {
+    "Type": "Alignas",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "Alignof",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "Asm",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "Auto",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "Bool",
+    "Category": "Type"
+  },
+  {
+    "Type": "Break",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "Case",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "Catch",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "Char",
+    "Category": "Type"
+  },
+  {
+    "Type": "Char16",
+    "Category": "Type"
+  },
+  {
+    "Type": "Char32",
+    "Category": "Type"
+  },
+  {
+    "Type": "Class",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "Const",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "Constexpr",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "Const_cast",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "Continue",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "Decltype",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "Default",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "Delete",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "Do",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "Double",
+    "Category": "Type"
+  },
+  {
+    "Type": "Dynamic_cast",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "Else",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "Enum",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "Explicit",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "Export",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "Extern",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "False_",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "Final",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "Float",
+    "Category": "Type"
+  },
+  {
+    "Type": "For",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "Friend",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "Goto",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "If",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "Inline",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "Int",
+    "Category": "Type"
+  },
+  {
+    "Type": "Long",
+    "Category": "Type"
+  },
+  {
+    "Type": "Mutable",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "Namespace",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "New",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "Noexcept",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "Nullptr",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "Operator",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "Override",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "Private",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "Protected",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "Public",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "Register",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "Reinterpret_cast",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "Return",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "Short",
+    "Category": "Type"
+  },
+  {
+    "Type": "Signed",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "Sizeof",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "Static",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "Static_assert",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "Static_cast",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "Struct",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "Switch",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "Template",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "This",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "Thread_local",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "Throw",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "True_",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "Try",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "Typedef",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "Typeid_",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "Typename_",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "Union",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "Unsigned",
+    "Category": "Type"
+  },
+  {
+    "Type": "Using",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "Virtual",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "Void",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "Volatile",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "Wchar",
+    "Category": "Type"
+  },
+  {
+    "Type": "While",
+    "Category": "Keyword"
+  },
+  {
+    "Type": "LeftParen",
+    "Category": "Operator"
+  },
+  {
+    "Type": "RightParen",
+    "Category": "Operator"
+  },
+  {
+    "Type": "LeftBracket",
+    "Category": "Operator"
+  },
+  {
+    "Type": "RightBracket",
+    "Category": "Operator"
+  },
+  {
+    "Type": "LeftBrace",
+    "Category": "Operator"
+  },
+  {
+    "Type": "RightBrace",
+    "Category": "Operator"
+  },
+  {
+    "Type": "Plus",
+    "Category": "Operator"
+  },
+  {
+    "Type": "Minus",
+    "Category": "Operator"
+  },
+  {
+    "Type": "Star",
+    "Category": "Operator"
+  },
+  {
+    "Type": "Div",
+    "Category": "Operator"
+  },
+  {
+    "Type": "Mod",
+    "Category": "Operator"
+  },
+  {
+    "Type": "Caret",
+    "Category": "Operator"
+  },
+  {
+    "Type": "And",
+    "Category": "Operator"
+  },
+  {
+    "Type": "Or",
+    "Category": "Operator"
+  },
+  {
+    "Type": "Tilde",
+    "Category": "Operator"
+  },
+  {
+    "Type": "Not",
+    "Category": "Operator"
+  },
+  {
+    "Type": "Assign",
+    "Category": "Operator"
+  },
+  {
+    "Type": "Less",
+    "Category": "Operator"
+  },
+  {
+    "Type": "Greater",
+    "Category": "Operator"
+  },
+  {
+    "Type": "PlusAssign",
+    "Category": "Operator"
+  },
+  {
+    "Type": "MinusAssign",
+    "Category": "Operator"
+  },
+  {
+    "Type": "StarAssign",
+    "Category": "Operator"
+  },
+  {
+    "Type": "DivAssign",
+    "Category": "Operator"
+  },
+  {
+    "Type": "ModAssign",
+    "Category": "Operator"
+  },
+  {
+    "Type": "XorAssign",
+    "Category": "Operator"
+  },
+  {
+    "Type": "AndAssign",
+    "Category": "Operator"
+  },
+  {
+    "Type": "OrAssign",
+    "Category": "Operator"
+  },
+  {
+    "Type": "LeftShiftAssign",
+    "Category": "Operator"
+  },
+  {
+    "Type": "RightShiftAssign",
+    "Category": "Operator"
+  },
+  {
+    "Type": "Equal",
+    "Category": "Operator"
+  },
+  {
+    "Type": "NotEqual",
+    "Category": "Operator"
+  },
+  {
+    "Type": "LessEqual",
+    "Category": "Operator"
+  },
+  {
+    "Type": "GreaterEqual",
+    "Category": "Operator"
+  },
+  {
+    "Type": "AndAnd",
+    "Category": "Operator"
+  },
+  {
+    "Type": "OrOr",
+    "Category": "Operator"
+  },
+  {
+    "Type": "PlusPlus",
+    "Category": "Operator"
+  },
+  {
+    "Type": "MinusMinus",
+    "Category": "Operator"
+  },
+  {
+    "Type": "Comma",
+    "Category": "Operator"
+  },
+  {
+    "Type": "ArrowStar",
+    "Category": "Operator"
+  },
+  {
+    "Type": "Arrow",
+    "Category": "Operator"
+  },
+  {
+    "Type": "Question",
+    "Category": "Operator"
+  },
+  {
+    "Type": "Colon",
+    "Category": "Operator"
+  },
+  {
+    "Type": "Doublecolon",
+    "Category": "Operator"
+  },
+  {
+    "Type": "Semi",
+    "Category": "Operator"
+  },
+  {
+    "Type": "Dot",
+    "Category": "Operator"
+  },
+  {
+    "Type": "DotStar",
+    "Category": "Operator"
+  },
+  {
+    "Type": "Ellipsis",
+    "Category": "Operator"
+  },
+  {
+    "Type": "Identifier",
+    "Category": "Identifier"
+  },
+  {
+    "Type": "DecimalLiteral",
+    "Category": "Literal"
+  },
+  {
+    "Type": "OctalLiteral",
+    "Category": "Literal"
+  },
+  {
+    "Type": "HexadecimalLiteral",
+    "Category": "Literal"
+  },
+  {
+    "Type": "BinaryLiteral",
+    "Category": "Literal"
+  },
+  {
+    "Type": "Integersuffix",
+    "Category": "Literal"
+  },
+  {
+    "Type": "UserDefinedIntegerLiteral",
+    "Category": "Literal"
+  },
+  {
+    "Type": "UserDefinedFloatingLiteral",
+    "Category": "Literal"
+  },
+  {
+    "Type": "UserDefinedStringLiteral",
+    "Category": "String"
+  },
+  {
+    "Type": "UserDefinedCharacterLiteral",
+    "Category": "Literal"
+  },
+  {
+    "Type": "Whitespace",
+    "Category": "Whitespace"
+  },
+  {
+    "Type": "Newline",
+    "Category": "Newline"
+  },
+  {
+    "Type": "BlockComment",
+    "Category": "Comment"
+  },
+  {
+    "Type": "LineComment",
+    "Category": "Comment"
+  },
+  {
+    "Type": "EOF",
+    "Category": "Undefined"
+  }
+]

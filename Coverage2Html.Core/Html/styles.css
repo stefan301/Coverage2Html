@@ -1,0 +1,49 @@
+
+body {
+        font-family:verdana;  
+        font-size:12px;
+}
+
+.Directive {
+  color: black;
+}
+
+.Comment {
+  color: DarkGreen;
+}
+
+.Literal {
+  color: DarkCyan;
+}
+
+.String  {
+  color: red;
+}
+
+.Keyword {
+  color: blue;
+}
+
+.Type  {
+  color: blue;
+}
+
+.Identifier  {
+  color: black;
+}
+
+.Operator {
+  color: black;
+}
+
+.Touched {
+  background-color: Lavender;
+}
+
+.NotTouched {
+  background-color: LightSalmon;
+}
+
+.PartiallyTouched {
+  background-color: LemonChiffon;
+}
