@@ -63,13 +63,13 @@ namespace Coverage2Html.Core.Html
                                         else
                                                 currentCoverageLine = null;
 
-                                        if ((lastCoverageLine.Coverage & 1) != 0)
-                                                html.Append($"<span class='Touched'>");
-                                        else if ((lastCoverageLine.Coverage & 2) != 0)
-                                                html.Append($"<span class='PartiallyTouched'>");
-                                        else
-                                                html.Append($"<span class='NotTouched'>");
-                                }
+					if ((lastCoverageLine.Coverage & 1) != 0)
+						html.Append($"<span class='Touched'>");
+					else if ((lastCoverageLine.Coverage & 2) != 0)
+						html.Append($"<span class='PartiallyTouched'>");
+					else
+						html.Append($"<span class='NotTouched'>");
+				}
 
                                 if (lastLine == null || lastLine.Value != token.Line)
                                 {
@@ -80,10 +80,13 @@ namespace Coverage2Html.Core.Html
 
                                 switch (token.TokenCategory)
                                 {
-                                        case TokenCategory.Undefined:
                                         case TokenCategory.Whitespace:
                                         case TokenCategory.Newline:
                                                 html.Append(token.Text);
+                                                break;
+
+                                        case TokenCategory.Undefined:
+                                                html.Append(System.Security.SecurityElement.Escape(token.Text));
                                                 break;
 
                                         case TokenCategory.Directive:
@@ -91,7 +94,7 @@ namespace Coverage2Html.Core.Html
                                                 break;
 
                                         default:
-                                                html.Append($"<span class='{token.TokenCategory.ToString()}'>{token.Text}</span>");
+                                                html.Append($"<span class='{token.TokenCategory.ToString()}'>{System.Security.SecurityElement.Escape(token.Text)}</span>");
                                                 break;
                                 }
                         }

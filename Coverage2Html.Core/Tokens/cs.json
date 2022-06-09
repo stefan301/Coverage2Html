@@ -33,7 +33,7 @@
   },
   {
     "Type": "SHARP",
-    "Category": "Undefined"
+    "Category": "Directive"
   },
   {
     "Type": "ABSTRACT",
@@ -49,7 +49,7 @@
   },
   {
     "Type": "ARGLIST",
-    "Category": "Undefined"
+    "Category": "Keyword"
   },
   {
     "Type": "AS",
@@ -61,7 +61,7 @@
   },
   {
     "Type": "ASYNC",
-    "Category": "Undefined"
+    "Category": "Keyword"
   },
   {
     "Type": "AWAIT",
@@ -117,7 +117,7 @@
   },
   {
     "Type": "DECIMAL",
-    "Category": "Undefined"
+    "Category": "Keyword"
   },
   {
     "Type": "DEFAULT",
@@ -173,7 +173,7 @@
   },
   {
     "Type": "FINALLY",
-    "Category": "Undefined"
+    "Category": "Keyword"
   },
   {
     "Type": "FIXED",
@@ -445,7 +445,7 @@
   },
   {
     "Type": "WHERE",
-    "Category": "Undefined"
+    "Category": "Keyword"
   },
   {
     "Type": "WHILE",
@@ -461,239 +461,239 @@
   },
   {
     "Type": "LITERAL_ACCESS",
-    "Category": "Undefined"
+    "Category": "Literal"
   },
   {
     "Type": "INTEGER_LITERAL",
-    "Category": "Undefined"
+    "Category": "Literal"
   },
   {
     "Type": "HEX_INTEGER_LITERAL",
-    "Category": "Undefined"
+    "Category": "Literal"
   },
   {
     "Type": "BIN_INTEGER_LITERAL",
-    "Category": "Undefined"
+    "Category": "Literal"
   },
   {
     "Type": "REAL_LITERAL",
-    "Category": "Undefined"
+    "Category": "Literal"
   },
   {
     "Type": "CHARACTER_LITERAL",
-    "Category": "Undefined"
+    "Category": "Literal"
   },
   {
     "Type": "REGULAR_STRING",
-    "Category": "Undefined"
+    "Category": "String"
   },
   {
     "Type": "VERBATIUM_STRING",
-    "Category": "Undefined"
+    "Category": "String"
   },
   {
     "Type": "INTERPOLATED_REGULAR_STRING_START",
-    "Category": "Undefined"
+    "Category": "String"
   },
   {
     "Type": "INTERPOLATED_VERBATIUM_STRING_START",
-    "Category": "Undefined"
+    "Category": "String"
   },
   {
     "Type": "OPEN_BRACE",
-    "Category": "Undefined"
+    "Category": "Operator"
   },
   {
     "Type": "CLOSE_BRACE",
-    "Category": "Undefined"
+    "Category": "Operator"
   },
   {
     "Type": "OPEN_BRACKET",
-    "Category": "Undefined"
+    "Category": "Operator"
   },
   {
     "Type": "CLOSE_BRACKET",
-    "Category": "Undefined"
+    "Category": "Operator"
   },
   {
     "Type": "OPEN_PARENS",
-    "Category": "Undefined"
+    "Category": "Operator"
   },
   {
     "Type": "CLOSE_PARENS",
-    "Category": "Undefined"
+    "Category": "Operator"
   },
   {
     "Type": "DOT",
-    "Category": "Undefined"
+    "Category": "Operator"
   },
   {
     "Type": "COMMA",
-    "Category": "Undefined"
+    "Category": "Operator"
   },
   {
     "Type": "COLON",
-    "Category": "Undefined"
+    "Category": "Operator"
   },
   {
     "Type": "SEMICOLON",
-    "Category": "Undefined"
+    "Category": "Operator"
   },
   {
     "Type": "PLUS",
-    "Category": "Undefined"
+    "Category": "Operator"
   },
   {
     "Type": "MINUS",
-    "Category": "Undefined"
+    "Category": "Operator"
   },
   {
     "Type": "STAR",
-    "Category": "Undefined"
+    "Category": "Operator"
   },
   {
     "Type": "DIV",
-    "Category": "Undefined"
+    "Category": "Operator"
   },
   {
     "Type": "PERCENT",
-    "Category": "Undefined"
+    "Category": "Operator"
   },
   {
     "Type": "AMP",
-    "Category": "Undefined"
+    "Category": "Operator"
   },
   {
     "Type": "BITWISE_OR",
-    "Category": "Undefined"
+    "Category": "Operator"
   },
   {
     "Type": "CARET",
-    "Category": "Undefined"
+    "Category": "Operator"
   },
   {
     "Type": "BANG",
-    "Category": "Undefined"
+    "Category": "Operator"
   },
   {
     "Type": "TILDE",
-    "Category": "Undefined"
+    "Category": "Operator"
   },
   {
     "Type": "ASSIGNMENT",
-    "Category": "Undefined"
+    "Category": "Operator"
   },
   {
     "Type": "LT",
-    "Category": "Undefined"
+    "Category": "Operator"
   },
   {
     "Type": "GT",
-    "Category": "Undefined"
+    "Category": "Operator"
   },
   {
     "Type": "INTERR",
-    "Category": "Undefined"
+    "Category": "Operator"
   },
   {
     "Type": "DOUBLE_COLON",
-    "Category": "Undefined"
+    "Category": "Operator"
   },
   {
     "Type": "OP_COALESCING",
-    "Category": "Undefined"
+    "Category": "Operator"
   },
   {
     "Type": "OP_INC",
-    "Category": "Undefined"
+    "Category": "Operator"
   },
   {
     "Type": "OP_DEC",
-    "Category": "Undefined"
+    "Category": "Operator"
   },
   {
     "Type": "OP_AND",
-    "Category": "Undefined"
+    "Category": "Operator"
   },
   {
     "Type": "OP_OR",
-    "Category": "Undefined"
+    "Category": "Operator"
   },
   {
     "Type": "OP_PTR",
-    "Category": "Undefined"
+    "Category": "Operator"
   },
   {
     "Type": "OP_EQ",
-    "Category": "Undefined"
+    "Category": "Operator"
   },
   {
     "Type": "OP_NE",
-    "Category": "Undefined"
+    "Category": "Operator"
   },
   {
     "Type": "OP_LE",
-    "Category": "Undefined"
+    "Category": "Operator"
   },
   {
     "Type": "OP_GE",
-    "Category": "Undefined"
+    "Category": "Operator"
   },
   {
     "Type": "OP_ADD_ASSIGNMENT",
-    "Category": "Undefined"
+    "Category": "Operator"
   },
   {
     "Type": "OP_SUB_ASSIGNMENT",
-    "Category": "Undefined"
+    "Category": "Operator"
   },
   {
     "Type": "OP_MULT_ASSIGNMENT",
-    "Category": "Undefined"
+    "Category": "Operator"
   },
   {
     "Type": "OP_DIV_ASSIGNMENT",
-    "Category": "Undefined"
+    "Category": "Operator"
   },
   {
     "Type": "OP_MOD_ASSIGNMENT",
-    "Category": "Undefined"
+    "Category": "Operator"
   },
   {
     "Type": "OP_AND_ASSIGNMENT",
-    "Category": "Undefined"
+    "Category": "Operator"
   },
   {
     "Type": "OP_OR_ASSIGNMENT",
-    "Category": "Undefined"
+    "Category": "Operator"
   },
   {
     "Type": "OP_XOR_ASSIGNMENT",
-    "Category": "Undefined"
+    "Category": "Operator"
   },
   {
     "Type": "OP_LEFT_SHIFT",
-    "Category": "Undefined"
+    "Category": "Operator"
   },
   {
     "Type": "OP_LEFT_SHIFT_ASSIGNMENT",
-    "Category": "Undefined"
+    "Category": "Operator"
   },
   {
     "Type": "OP_COALESCING_ASSIGNMENT",
-    "Category": "Undefined"
+    "Category": "Operator"
   },
   {
     "Type": "OP_RANGE",
-    "Category": "Undefined"
+    "Category": "Operator"
   },
   {
     "Type": "DOUBLE_CURLY_INSIDE",
-    "Category": "Undefined"
+    "Category": "Operator"
   },
   {
     "Type": "OPEN_BRACE_INSIDE",
-    "Category": "Undefined"
+    "Category": "Operator"
   },
   {
     "Type": "REGULAR_CHAR_INSIDE",
@@ -717,7 +717,7 @@
   },
   {
     "Type": "CLOSE_BRACE_INSIDE",
-    "Category": "Undefined"
+    "Category": "Operator"
   },
   {
     "Type": "FORMAT_STRING",
@@ -793,6 +793,6 @@
   },
   {
     "Type": "DOUBLE_CURLY_CLOSE_INSIDE",
-    "Category": "Undefined"
+    "Category": "Operator"
   }
 ]
