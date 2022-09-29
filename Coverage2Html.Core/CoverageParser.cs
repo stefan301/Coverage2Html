@@ -1,5 +1,5 @@
 ﻿using Coverage2Html.Core.CoverageData;
-using Microsoft.VisualStudio.Coverage.Analysis;
+using Microsoft.CodeCoverage.Analysis;
 using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;
@@ -212,11 +212,11 @@ namespace Coverage2Html.Core
                 {
                         for (DirectoryInfo fileDir = file.Directory, dir = new DirectoryInfo(directory); fileDir != null; fileDir = fileDir.Parent)
                         {
-                                if (fileDir.FullName == dir.FullName)
-                                        return true;
-                        }
+				if (string.Compare(fileDir.FullName, dir.FullName, true) == 0)
+					return true;
+			}
 
-                        return false;
+			return false;
                 }
         }
 }

@@ -98,7 +98,7 @@ namespace Coverage2Html
                                 }
                                 else
                                 {
-                                        var coverageParser = new CoverageParser(options.RootFolder, options.ExcludePaths, Output, ErrorOutput);
+                                        var coverageParser = new CoverageParser(options.RootFolder.TrimEnd(Path.DirectorySeparatorChar), options.ExcludePaths, Output, ErrorOutput);
                                         coverageParser.ShowExcluded = options.ShowExcluded;
 
                                         sourceFiles = coverageParser.Parse(options.CoverageFiles.ToArray());
